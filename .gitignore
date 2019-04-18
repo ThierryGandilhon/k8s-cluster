@@ -1,2 +1,3 @@
 */*.retry
 */join_command
+.vagrant
